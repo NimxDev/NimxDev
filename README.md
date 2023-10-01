@@ -11,6 +11,4 @@ Contact me for whatever you want
 
 Working On:
 
-🌴 SavanaPvP 🌴
-IP: Savanapvp.net
-DC: http://discord.savanapvp.net
+
