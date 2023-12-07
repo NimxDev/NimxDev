@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NimadosYT
+- 👋 Hi, I’m @NimoDev
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Java
 - 🎇 I configure professionally servers
