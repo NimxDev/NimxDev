@@ -11,4 +11,6 @@ Contact me for whatever you want
 
 Working On:
 
+- NimoDev Operations @ CEO
+
 
