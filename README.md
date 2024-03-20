@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @NimoDev
-- 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
-- 🎇 I configure professionally servers
+# 📖 About Me
+
 
 Discord:
 
@@ -12,5 +10,8 @@ Contact me for whatever you want
 Working On:
 
 - NimoDev Operations @ CEO
+
+Worked on:
+- FrostCraft @ Developer
 
 
