@@ -17,7 +17,7 @@
 
 ## 🧩 More Information
 
-<img src="https://cdn.discordapp.com/attachments/854372954543751180/1220012403350311062/LnBuZw.png?ex=660d6417&is=65faef17&hm=4d811f73ccc79f8cd80a203b57b8b91d25dd84628428d6d343f024b8e773ddaf&" width="16"/>Discord:
+<img src="https://cdn.discordapp.com/attachments/854372954543751180/1220012403350311062/LnBuZw.png?ex=660d6417&is=65faef17&hm=4d811f73ccc79f8cd80a203b57b8b91d25dd84628428d6d343f024b8e773ddaf&" width="24"/>Discord:
 
 * nimovt
 
