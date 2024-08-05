@@ -1,9 +1,11 @@
 <h3 align="center">¡Hi! Im NimoDev</a> 👋</h3>
 
 ## 📖 About Me
-* <img src="https://cdn.discordapp.com/emojis/1124845167866806312.gif" width="16"/> Minecraft Plugins Developer
-* 💾 Currently learning JavaScript
+* 💻 Software Developer
+* 💾 Currently learning C++
 * 🌱 Im 16 years old
+* ⏰ Almost 2 years in Java Development
+* ⛏️ Experienced Minecraft Developer
 
 ## 🔥 Github Stats
 ![NimoDev Stats](https://git-hub-stats-liard.vercel.app/api?username=NimxDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
@@ -11,7 +13,7 @@
 ## 🌱 Porgraming lenguages i know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,mysql,discord,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,python,mongo,mysql,discord,git,github" />
   </a>
 </p>
 
@@ -27,9 +29,11 @@ Working On:
 
 * NimoDev Operations @ CEO
 * WaterMC @ Developer
+* CyrusPvP @ Developer
 
 Worked on:
 
 * FrostCraft @ Developer
+* TimeQuest @ Developer
 
 
