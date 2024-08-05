@@ -13,7 +13,7 @@
 ## 🌱 Porgraming lenguages i know
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,python,mongo,mysql,discord,git,github" />
+    <img src="https://skillicons.dev/icons?i=java,js,cpp,html,python,mongo,mysql,redis,discord,git,github" />
   </a>
 </p>
 
