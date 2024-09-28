@@ -28,11 +28,12 @@ Contact me for whatever you want
 Working On:
 
 * NimoDev Operations @ CEO
-* WaterMC @ Developer
-* CyrusPvP @ Developer
+
 
 Worked on:
-
+* WaterMC @ Developer
+* CyrusPvP @ Developer
+* RankedGames @ Developer
 * FrostCraft @ Developer
 * TimeQuest @ Developer
 
