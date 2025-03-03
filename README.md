@@ -2,9 +2,8 @@
 
 ## 📖 About Me
 * 💻 Software Developer
-* 💾 Currently learning C++
 * 🌱 Im 16 years old
-* ⏰ Almost 2 years in Java Development
+* ⏰ 2 years in Java Development
 * ⛏️ Experienced Minecraft Developer
 
 ## 🔥 Github Stats
@@ -29,6 +28,7 @@ Working On:
 
 * NimoDev Operations @ CEO
 * ZestianMC @ Developer
+* MineTube @ Developer
 
 
 Worked on:
