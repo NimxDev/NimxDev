@@ -2,7 +2,7 @@
 
 ## 📖 About Me
 * 💻 Software Developer
-* 🌱 Im 16 years old
+* 🌱 Im 17 years old
 * ⏰ 2 years in Java Development
 * ⛏️ Experienced Minecraft Developer
 
@@ -27,12 +27,13 @@ Contact me for whatever you want
 Working On:
 
 * NimoDev Operations @ CEO
-* ZestianMC @ Developer
+* ExodusMC @ Developer
 * MineTube @ Developer
 
 
 Worked on:
 * WaterMC @ Developer
+* ZestianMC @ Developer
 * CyrusPvP @ Developer
 * RankedGames @ Developer
 * FrostCraft @ Developer
