@@ -7,7 +7,7 @@
 * ⛏️ Experienced Minecraft Developer
 
 ## 🔥 Github Stats
-![NimoDev Stats](https://github-readme-stats.vercel.app/api?username=NimxDev&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![NimoDev Stats](https://githubcard.com/NimxDev.svg?d=Wr3CC_gY)
 
 ## 🌱 Porgraming lenguages i know
 <p align="center">
